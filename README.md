@@ -17,9 +17,13 @@ This is a Rust-based console application that generates a student report card an
 
 bash
 📘 Welcome to the Rust Student Report Card Generator!
+
 Enter student name: <Ur_name>
+
 Enter total marks: 519
+
 Enter number of subjects: 6
+
 ✅ Report card generated successfully: report.pdf
 
 ## Clone the repository
