@@ -23,7 +23,8 @@ Enter number of subjects: 6
 ✅ Report card generated successfully: report.pdf
 
 ## Clone the repository
-git clone https://github.com/<your-username>/rust-student-report-card.git
+git clone https://github.com/<your-username>/rust-student-report-card.git 
+
 cd rust-student-report-card
 
 ## Run the application
